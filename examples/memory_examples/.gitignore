@@ -1,0 +1,4 @@
+*.bc
+a.out
+klee-last
+klee-out*
