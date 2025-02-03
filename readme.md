@@ -1,5 +1,7 @@
 # Project of using `Clang`+`KLEE` for C++ code test generator.
 
+This is a repo of `KLEE` usage. Key results are provided in this issue [(link)](https://github.com/includealex/KLEE_codegen/issues/2).
+
 ## Requirements:
 
 - `clang` and `clang++` version `13.0.1`;
